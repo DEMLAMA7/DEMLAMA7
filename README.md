@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kuldev Pakhrin
-
+a
 ### Aspiring AI/ML Engineer | Python • Data • Machine Learning • AI
 
 I'm focused on building a strong foundation in **Machine Learning, Data Analytics, and AI**, while turning what I learn into practical, real-world projects.
@@ -44,3 +44,26 @@ Deep Learning
 LLMs & RAG
      ↓
 AI Engineering
+
+
+## 🚀 Featured Projects
+
+#### Chemical Reaction RAG
+An AI-powered document question-answering system built to extract and query information from scientific documents. I implemented OCR for text extraction, generated embeddings, and used FAISS to build a functional Retrieval-Augmented Generation (RAG) pipeline.  
+**Tech:** Python, RAG, FAISS, LLM APIs, OCR  
+**Focus:** Document processing, information retrieval, and applied AI.
+
+#### Customer Shopping Behavior Analysis
+A data analysis project aimed at uncovering patterns in customer purchasing habits. I used SQL for data extraction and querying, then leveraged Python and Power BI to visualize trends and generate actionable business insights.  
+**Tech:** Python, SQL, Power BI, Pandas  
+**Focus:** Exploratory data analysis, data visualization, and business intelligence.
+
+#### HR Analytics & Attrition Patterns
+An exploratory data analysis project investigating employee demographics and work history to identify key factors related to employee attrition. The goal was to clean raw HR data and translate it into clear, visual insights.  
+**Tech:** Python, Pandas, Matplotlib, Seaborn  
+**Focus:** Data cleaning, EDA, and statistical visualization.
+
+#### Machine Learning Journey
+A structured, ongoing repository documenting my hands-on practice with core machine learning concepts. It covers the full modeling workflow from scratch, including data preprocessing, regression, classification, cross-validation, and hyperparameter tuning using Scikit-learn.  
+**Tech:** Python, Scikit-learn, Jupyter Notebook  
+**Focus:** Foundational machine learning, model evaluation, and engineering best practices.
