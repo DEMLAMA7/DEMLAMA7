@@ -49,3 +49,33 @@ Deep Learning
 LLMs & RAG
      ↓
 AI Engineering
+
+
+
+## 🚀 Featured Projects
+
+### 🔬 Chemical Reaction RAG
+An AI-powered document question-answering system exploring OCR, embeddings, FAISS and RAG for scientific documents.
+
+### 📊 Customer Shopping Behavior Analysis
+Data analysis project using Python, SQL and Power BI to explore customer purchasing behavior.
+
+### 👥 HR Analytics
+Data analysis project exploring employee characteristics and patterns related to employee attrition.
+
+### 🤖 Machine Learning Journey
+A structured collection of my Scikit-learn learning and ML practice, covering preprocessing, regression, classification, evaluation and model selection.
+
+
+## 🎯 Current Goals
+
+I'm currently preparing for **AI/ML internships** with a focus on:
+
+- Strengthening core Machine Learning
+- Building one strong end-to-end ML project
+- Improving Statistics fundamentals
+- Practicing DSA and coding assessments
+- Developing stronger technical communication
+- Building a clean and meaningful GitHub portfolio
+
+> **Learn → Build → Break → Google → Pretend I Knew It**
