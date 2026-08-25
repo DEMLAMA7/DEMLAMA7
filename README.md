@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Kuldev Pakhrin
 
-### Aspiring AI/ML Engineer | Python • Data • Machine Learning • AI
+### Aspiring AI/ML Engineer | Python • Data • Machine Learning
 
-I'm currently focused on building a strong foundation in **Machine Learning, Data Analytics, and AI**, while developing practical projects that solve real-world problems.
+I'm focused on building a strong foundation in **Machine Learning, Data Analytics, and AI**, while turning what I learn into practical projects.
 
-- 🔭 Currently working on: **Machine Learning**
+- 🔭 Currently focused on: **Machine Learning**
 - 🌱 Currently learning: **Core ML, Statistics, DSA & Model Evaluation**
 - 🧠 Interested in: **Machine Learning, LLMs, RAG & AI Engineering**
-- 💻 Main tools: **Python, SQL, Pandas, NumPy, Scikit-learn**
-- 🎯 Goal: **Become a strong AI/ML Engineer**
+- 💻 Working mainly with: **Python, SQL, Pandas, NumPy & Scikit-learn**
+- 🎯 Current goal: **Become internship-ready for AI/ML roles**
 
 ---
 
@@ -21,7 +21,7 @@ Python • SQL
 Pandas • NumPy • Matplotlib • Seaborn • Power BI
 
 ### Machine Learning
-Scikit-learn • XGBoost • Feature Engineering • Model Evaluation
+Scikit-learn • Feature Engineering • Model Evaluation • Cross-Validation
 
 ### AI / LLM
 LLM APIs • RAG • Embeddings • FAISS • OCR
@@ -46,6 +46,6 @@ PyTorch
      ↓
 Deep Learning
      ↓
-LLMs / RAG
+LLMs & RAG
      ↓
 AI Engineering
